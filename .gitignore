@@ -1,3 +1,6 @@
+*.xcodeproj
+.DS_Store
+
 # Prerequisites
 *.d
 
